@@ -2,7 +2,7 @@
 
 **Your captivating tagline or short bio**
 
-[Image of you or a placeholder](your-image.png)
+<img src="https://github.com/Titan3T/<name_of_the_repository>/blob/master/<name_of_the_image>" alt="selfie">
 
 ## About Me
 
