@@ -2,7 +2,7 @@
 
 **Your captivating tagline or short bio**
 
-<img src="https://github.com/Titan3T/<name_of_the_repository>/blob/master/<name_of_the_image>" alt="selfie">
+<img src="https://github.com/mai-103/mai-103.github.io/blob/master/<name_of_the_image>" alt="selfie">
 
 ## About Me
 
