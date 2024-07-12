@@ -2,7 +2,7 @@
 
 **Your captivating tagline or short bio**
 
-<img src="https://github.com/mai-103/mai-103.github.io/my_picture.jpg" alt="selfie">
+<img src="my_picrture.jpg" alt="selfie">
 
 ## About Me
 
